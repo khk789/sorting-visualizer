@@ -7,7 +7,7 @@
 - Merge Sort
 
 ### This is built using HTML, CSS, JavaScript <br/>
-
+[Check out the website here](https://khk789.github.io/sorting-visualizer/)
 
 
 <img src="img/img1.png"> <br/>
